@@ -182,7 +182,7 @@ sub_units = {
 
 		need = {
 			anti_air_equipment = 30
-			motorized_equipment
+			motorized_equipment = 20
 		}
 		transport = motorized_equipment
 
