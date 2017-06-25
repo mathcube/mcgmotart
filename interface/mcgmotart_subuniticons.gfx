@@ -3,5 +3,7 @@ spriteTypes = {
 	spriteType = { name = "GFX_unit_motorized_artillery_brigade_icon_medium"						textureFile = "gfx/interface/counters/divisions_large/unit_art_icon.dds" noOfFrames = 2 }
 	spriteType = { name = "GFX_unit_motorized_anti_tank_brigade_icon_medium"						textureFile = "gfx/interface/counters/divisions_large/unit_at_icon.dds" noOfFrames = 2 }
 	spriteType = { name = "GFX_unit_motorized_anti_air_brigade_icon_medium"						textureFile = "gfx/interface/counters/divisions_large/unit_anti_air_icon.dds" noOfFrames = 2 }
-
+	spriteType = { name = "GFX_unit_motorized_artillery_brigade_icon_medium_white"						textureFile = "gfx/interface/counters/divisions_large/onmap_unit_art_icon.dds" noOfFrames = 2 }
+	spriteType = { name = "GFX_unit_motorized_anti_tank_brigade_icon_medium_white"						textureFile = "gfx/interface/counters/divisions_large/onmap_unit_at_icon.dds" noOfFrames = 2 }
+	spriteType = { name = "GFX_unit_motorized_anti_air_brigade_icon_medium_white"						textureFile = "gfx/interface/counters/divisions_large/onmap_unit_anti_air_icon.dds" noOfFrames = 2 }
 }
